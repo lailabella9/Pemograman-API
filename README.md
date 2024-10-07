@@ -1,4 +1,6 @@
 # Data Diri
+
+| | |
 |--|--|
 | NIM | *22104410090* |
 |Nama Lengkap | * Laila Ivone Bella * |
