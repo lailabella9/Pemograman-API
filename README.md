@@ -1,4 +1,5 @@
 # Data Diri
+|--|--|
 | NIM | *22104410090* |
 |Nama Lengkap | * Laila Ivone Bella * |
 |Kelas |* TI 5B*|
