@@ -1,11 +1,5 @@
-# Data Diri
+# praktek-nextjs
 
-| | |
-|--|--|
-| NIM | 22104410090 |
-|Nama Lengkap |  Laila Ivone Bella  |
-|Kelas | TI 5B|
-|Matkul | Pemograman API  |
-|Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr. T](https://github.com/fariedrahmat)|
+Repositori untuk praktek Matakuliah Pemograman API Kelas 5A dan 5B dengan Spesifikasi Standart NextJS versi 14.0.3 
 
-# Pemrograman API
+Silahkan gunakan perintah git clone untuk melakukan clone repo ini ke Komputer Anda
